@@ -1,2 +1,2 @@
 # Simplilearn-Projects
-Devops Terraform Asnible project1
+Devops Terraform Ansible project1
